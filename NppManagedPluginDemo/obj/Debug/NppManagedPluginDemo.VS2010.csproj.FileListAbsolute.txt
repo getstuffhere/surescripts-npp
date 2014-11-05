@@ -1,0 +1,7 @@
+C:\Users\Administrator\Downloads\NppPlugin.NET.v0.5\Demo Plugin\NppManagedPluginDemo\bin\Debug\SureScripts.dll
+C:\Users\Administrator\Downloads\NppPlugin.NET.v0.5\Demo Plugin\NppManagedPluginDemo\bin\Debug\SureScripts.pdb
+C:\Users\Administrator\Downloads\NppPlugin.NET.v0.5\Demo Plugin\NppManagedPluginDemo\obj\Debug\NppPluginNET.frmGoToLine.resources
+C:\Users\Administrator\Downloads\NppPlugin.NET.v0.5\Demo Plugin\NppManagedPluginDemo\obj\Debug\NppPluginNET.Properties.Resources.resources
+C:\Users\Administrator\Downloads\NppPlugin.NET.v0.5\Demo Plugin\NppManagedPluginDemo\obj\Debug\NppManagedPluginDemo.VS2010.csproj.GenerateResource.Cache
+C:\Users\Administrator\Downloads\NppPlugin.NET.v0.5\Demo Plugin\NppManagedPluginDemo\obj\Debug\SureScripts.dll
+C:\Users\Administrator\Downloads\NppPlugin.NET.v0.5\Demo Plugin\NppManagedPluginDemo\obj\Debug\SureScripts.pdb
